@@ -1,0 +1,48 @@
+THES4INTWIRE – FREEWARE LICENSE (PROPRIETARY)
+Version 1.0 – 2026-11-12
+
+Copyright © 2026 TheS4int.
+
+1. GRANT OF USE
+TheS4int grants individuals and organizations a non-exclusive, royalty-free,
+revocable license to download, install, and run unmodified official copies of
+THES4INTWIRE for lawful personal or internal business use, subject to these terms.
+This is a license to use the software, not a sale of the software.
+
+2. RESTRICTIONS
+Except where applicable law expressly permits otherwise or prior written
+permission is granted by the relevant rightsholder, you may not:
+  a. sell, sublicense, or commercially redistribute the software;
+  b. modify, repackage, or distribute modified copies;
+  c. imply that your distribution is an official THES4INTWIRE release;
+  d. remove or falsify copyright, attribution, or license notices.
+Sharing a LINK to the official distribution page is permitted.
+
+3. SOURCE CODE
+The software is distributed as proprietary freeware. No source code license or
+source code access is granted by this document.
+
+4. THIRD-PARTY COMPONENTS
+Third-party components may be subject to separate licenses. Those licenses
+supersede these restrictions to the extent they apply to their respective
+components. Nothing here reduces rights granted by applicable third-party
+licenses or non-waivable law.
+
+5. NO WARRANTY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS"
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. NOTHING IN THIS SECTION LIMITS
+MANDATORY CONSUMER RIGHTS OR LIABILITY THAT CANNOT LEGALLY BE EXCLUDED.
+
+6. LIABILITY
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR IS NOT LIABLE FOR
+INDIRECT OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THE SOFTWARE.
+THIS CLAUSE DOES NOT EXCLUDE LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+7. OTHER MATERIALS
+The project's name, logos, graphics, documentation and other identifying
+materials are not granted under an open-source license. The license grants
+only the use rights expressly described above.
+
+8. CONTACT
+For license or permission requests, please open an issue in the official
+THES4INTWIRE GitHub project without posting private information.
