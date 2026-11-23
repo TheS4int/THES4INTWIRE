@@ -8,7 +8,7 @@
 
 THES4INTWIRE is a Windows desktop network and security monitor built with Rust and Tauri 2. **Freeware, not open source:** this public repository contains documentation, artwork and a distributable browser extension package; the desktop application's source code stays private.
 
-**[Download the latest release](../../releases/latest)** · [Changelog](CHANGELOG.md) · [Browser setup](docs/BROWSER-SETUP-DE.md) · [Security](SECURITY.md)
+**[Download the latest release](../../releases/latest)** · **[Bedienungsanleitung (Deutsch)](BEDIENUNGSANLEITUNG.md)** · [Changelog](CHANGELOG.md) · [Browser setup](docs/BROWSER-SETUP-DE.md) · [Security](SECURITY.md)
 
 ## Features (v1.24)
 - **Live networking:** download/upload speed, adapter selection, RX/TX packets, historical charts, mini-window, system tray.
